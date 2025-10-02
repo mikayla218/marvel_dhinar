@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>profil digital - [Nama Anda]</title>
+</head>
+<body>
+<img src="foto-profil.jpg" alt="foto profil saya">
+<h1>nama lengkap anda</h1>
+<p>Siswa SMA yang tertarik dengan teknologi dan desain.selamat datang di website pertama saya!</p><a
+href="https://mardewa.com/usernameanda">Kunjungi instragram saya</a>
+
+</body>
+</html>
+<head>
+    <title>Profil Digital - [nama anda]</title>
+    <link rel="stylrsheet" href="style.css">
+</head>
+<div class="kartu-profil>
+  <a href="...">kunjungi instagram saya </a>
+  <button id="sapa button">sapa saya!<\botton>
+</div>
+<sript src="script.js></script>
+</body>
+</html>
+
 
